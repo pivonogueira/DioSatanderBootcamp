@@ -10,6 +10,7 @@ Módulo 1 - Conteudo abertura
 ```
 Módulo 2 -  HTML/CSS/JS
 ```
+      2.1 - Introdução a criação de websites com HTML5 e CSS3 - Em estudo
 ```
 Módulo 3 - Angular
 ```
