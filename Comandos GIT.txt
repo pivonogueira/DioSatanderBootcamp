@@ -1,0 +1,15 @@
+git init > Inicia um repositorio
+git clone htmlxxxxx > Clona o repositorio do github
+git pull htmlxxxxx > Baixa as atualizações do respositorio
+git add xx.html > adiciona o arquivo ao repositorio
+git status > indica alterações/modificações
+git log > log das alterações. - git log --online - log em uma linha
+git commit -m "comentario" > commit da atualização de arquivo
+git push origin master > "Origin = origem" "master = Branch" finaliza edições e envia todos os commits para o respositorio. Ex2: git push origin nomeDaBranch
+git restore --source xxxxx XXX > volta os arquivos até a modificação xxxx nos arquivos XXXX; para xx= codigo hash do commit; para XX= arquivo para retornar, em caso de todos, colocar "."; para subir, precisa do commit e push
+git checkout -b nomeDaBranch > cria uma nova branch
+git switch nomeDaBranch > troca para a branch especifica
+git branch > mostra as branches existentes e em qual você esta
+git merge nomeDaBranchQueVaiJuntar > união da branch atual para a branch principal (main) - Precisa estar na main para dar merge - quando finalizar, dar git push
+
+
